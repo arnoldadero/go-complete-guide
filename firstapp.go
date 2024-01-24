@@ -22,7 +22,6 @@ func main() {
 	leapYearDaysFloat := float64(leapYearDays) / 3
 	fmt.Println(leapYearDaysFloat)
 
-
 	// print greetingText2
 	fmt.Println(greetingText2)
 

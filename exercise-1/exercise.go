@@ -6,7 +6,7 @@ func main() {
 	fName := "Arnold"
 	lName := "Adero"
 	birthYear := 1988
-    currentYear := 2024
+	currentYear := 2024
 	age := currentYear - birthYear
 
 	// Create variable fName and lName
@@ -15,18 +15,18 @@ func main() {
 
 	// Create variable date of birth
 
-	 fmt.Println(birthYear)
+	fmt.Println(birthYear)
 
-	 // create variable current year 
-	 
-	 fmt.Println(currentYear)
+	// create variable current year
 
-	 // create variable age
-	
-	 fmt.Println(age)
+	fmt.Println(currentYear)
 
-	 currentYear = currentYear + 1
-	 age = currentYear - birthYear
-	 fmt.Println(currentYear)
-	 fmt.Println(age)
+	// create variable age
+
+	fmt.Println(age)
+
+	currentYear = currentYear + 1
+	age = currentYear - birthYear
+	fmt.Println(currentYear)
+	fmt.Println(age)
 }
